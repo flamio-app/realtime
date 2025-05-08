@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Davut',
+      title: 'd',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const RegisterScreen(),
     );
